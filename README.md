@@ -3,7 +3,9 @@
 I am a faculty member of the [Computer Information Technology](https://www.lanecc.edu/programs-academics/academic-departments/business-technology-and-trades/computer-information-technology) department at [Lane Community College](https://www.lanecc.edu/). I've been teaching here since 2009 and love my job! I'm currently the lead faculty for the AAS in [Software Development](https://www.lanecc.edu/programs-academics/areas-study/computer-science-and-information-technology/software-development).
 
 
-- 🔭 I’m currently working on developing a new course: CS 123, Introduction to Artificial Intelligence.
+- 🔭 Course Development
+  - Last year, I developed a new course: [CS 123, Introduction to Artificial Intelligence](https://lanecc.smartcatalogiq.com/2024-2025/lcc-catalog/courses/cs-computer-science/100/cs-123/).
+  - This year I'm developing another course: CS 210: Introduction to Artificial Intelligence Programming. In this course, student learn to leverage AI in software apps they write. The type of AI they will learn to use include rule based, statistical and Neural Networks (including LLMs).
 
 - 🌱 I’m currently learning how to do development using Node.js (yeah, I'm late to this game.)
 - 👯 I’m looking to collaborate on software to assist with grading, including my [Grading Assistant](https://github.com/ProfBird/GradingAssistant) project.
