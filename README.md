@@ -16,3 +16,5 @@ I'm a faculty member in the [Computer Information Technology](https://www.lanecc
   - My wife and I lived in Tajikistan for two years.
   - I taught Software Engineering in Chennai, India three summers.
   - I was in Moscow the weeks before and after Yeltsin sent tanks to shell the Russian parliment building in October, 1993.
+
+  You can learn more about me on [LinkeIn](https://www.linkedin.com/in/brianabird/)
